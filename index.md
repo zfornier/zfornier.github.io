@@ -1,3 +1,8 @@
+## About me
+
+I am a PhD student in optimization since april 2022 under the supervision of Vincent Leclère. This Phd is done at CERMICS, École des Ponts ParisTech and METRON, a a French cleantech company specialized in improving energy efficiency, operating performance, and reducing energy costs and carbon footprint.
+
+
 ## Interests
 
 ### **Research**
@@ -7,10 +12,14 @@
 2. Dynamic programming
 3. Renewable energies
 4. Production management
+5. Fairness modeling
+6. Energy markets
 
 **Conferences**
 
 ### **Teaching**
+
+2022-2023: Teaching assistant of first year optimisation class by [https://cermics.enpc.fr/~meuniefr/](Frédéric Meunier), École des Ponts.
 
 
 ### **Education**
