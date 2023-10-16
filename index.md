@@ -25,10 +25,6 @@ I am a PhD student in optimization since april 2022 under the supervision of [Vi
 
 
 ### **Education**
-- Specialized Master in operational research, [_MPRO](https://uma.ensta-paris.fr/mpro/) - [CNAM_](https://www.cnam.fr/portail/conservatoire-national-des-arts-et-metiers-accueil-821166.kjsp) (2021)
+- Specialized Master in operational research, [_MPRO_](https://uma.ensta-paris.fr/mpro/) - [_CNAM_](https://www.cnam.fr/portail/conservatoire-national-des-arts-et-metiers-accueil-821166.kjsp) (2021)
 - General engineer diploma in pure and applied mathematics, computer science, [_Telecom Paris_](https://www.telecom-paris.fr/) (2018-2021)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
