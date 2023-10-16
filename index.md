@@ -19,7 +19,7 @@ I am a PhD student in optimization since april 2022 under the supervision of Vin
 
 ### **Teaching**
 
-2022-2023: Teaching assistant of first year optimisation class by [https://cermics.enpc.fr/~meuniefr/](Frédéric Meunier), École des Ponts.
+2022-2023: Teaching assistant of first year optimisation class by [Frédéric Meunier](https://cermics.enpc.fr/~meuniefr/), École des Ponts.
 
 
 ### **Education**
