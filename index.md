@@ -5,13 +5,7 @@ I am a PhD student in optimization since april 2022 under the supervision of [Vi
 
 # Research
 
-**Keywords** 
-1. Stochastic programming
-2. Dynamic programming
-3. Renewable energies
-4. Production management
-5. Fairness modeling
-6. Energy markets
+**Keywords** Stochastic programming; Dynamic programming; Renewable energies; Production management; Fairness modeling; Energy markets
 
 **International Exchange**
 Project at [Imperial College of London](https://www.imperial.ac.uk/) under the supervision of [Pierre Pinson](https://pierrepinson.com/) and [Vincent Leclère](https://leclere.github.io/).
