@@ -1,6 +1,6 @@
 ## About me
 
-I am a PhD student in optimization since april 2022 under the supervision of Vincent Leclère. This Phd is done at CERMICS, École des Ponts ParisTech and METRON, a a French cleantech company specialized in improving energy efficiency, operating performance, and reducing energy costs and carbon footprint.
+I am a PhD student in optimization since april 2022 under the supervision of Vincent Leclère. This Phd is done at [CERMICS](https://cermics-lab.enpc.fr/), [École des Ponts ParisTech](https://ecoledesponts.fr/en) and [METRON](https://www.metron.energy/), a a French cleantech company specialized in improving energy efficiency, operating performance, and reducing energy costs and carbon footprint.
 
 
 ## Interests
