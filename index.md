@@ -13,8 +13,8 @@ I am a PhD student in optimization since april 2022 under the supervision of [Vi
 5. Fairness modeling
 6. Energy markets
 
-**Exchange**
-International exchange at [Imperial College of London](https://www.imperial.ac.uk/) for a project under the supervision of [Vincent Leclère](https://leclere.github.io/) and [Pierre Pinson](https://pierrepinson.com/).
+**International Exchange**
+Project at [Imperial College of London](https://www.imperial.ac.uk/) under the supervision of [Pierre Pinson](https://pierrepinson.com/) and [Vincent Leclère](https://leclere.github.io/).
 
 **Talks**
 
