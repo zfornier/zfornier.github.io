@@ -12,7 +12,7 @@ Project at [Imperial College of London](https://www.imperial.ac.uk/) under the s
 
 **Talks**
 
-![test](poster.pdf)
+[test](https://zfornier.github.io/poster.pdf)
 
 **Publications**
 
