@@ -10,9 +10,16 @@ I am a PhD student in optimization since april 2022 under the supervision of [Vi
 **International Exchange**
 Project at [Imperial College of London](https://www.imperial.ac.uk/) under the supervision of [Pierre Pinson](https://pierrepinson.com/) and [Vincent Leclère](https://leclere.github.io/).
 
-**Talks**
+**Posters**
+1. [Poster](https://zfornier.github.io/poster_mode.pdf) presented at [SMAI-MODE Days](https://indico.math.cnrs.fr/event/6564/) in June 2022, a conference organized by the group of decision and optimization mathematics (MODE).
+2. [Poster](https://zfornier.github.io/poster.pdf) presented at [LACIAM](https://eventos.fgv.br/laciam-2023) in February 2023, the Latin American Congress on Indutrial and Applied Mathematics. 
 
-[test](https://zfornier.github.io/poster.pdf)
+**Talks**
+1. [Presentation](https://zfornier.github.io/roadef2022.pdf) of my master thesis at [ROADEF](https://roadef2022.sciencesconf.org/) in February 2022, an annual conference organized by the French society of operational research and decision making. 
+2. [Presentation](https://zfornier.github.io/pgmo_fornier.pdf) of work conducted during my first year of PhD at [PGMO Days](https://www.fondation-hadamard.fr/fr/programmes/les-programmes-thematiques/home/pgmo-days/) in November 2022.
+3. [Presentation](https://zfornier.github.io/presentation_metron.pdf) of my PhD subject in a pedagogical form.
+4. [Presentation](https://zfornier.github.io/ICSP2023.pdf) of work conducted during my second year of PhD at [the International Conference on Stochastic Optimization (ICSP)](https://na.eventscloud.com/website/40825/home/) in July 2023.
+
 
 **Publications**
 
