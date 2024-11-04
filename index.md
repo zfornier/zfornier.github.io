@@ -23,6 +23,7 @@ Project at [Imperial College of London](https://www.imperial.ac.uk/) under the s
 
 **Publications**
 1. _Fornier, Z., Grosso, D. & Leclère, V._ Joint production and energy supply planning of an industrial microgrid. _Energy Syst_ (2024). (https://doi.org/10.1007/s12667-023-00645-5/)
+2. _Fornier, Z., Leclère, V. & Pinson, P._ Fairness by design in shared-energy allocation problems. _arXiv_ (2024). (https://arxiv.org/abs/2402.00471)
 
 
 # Teaching
