@@ -28,9 +28,9 @@ Project at [Imperial College of London](https://www.imperial.ac.uk/) under the s
 
 # Teaching
 
-- 2024: Teaching assistant of fourth year [decision making with uncertainties](https://leclere.github.io/teaching/Optim2A) by [Vincent Leclère], École des Ponts.
+- 2024: Teaching assistant of fourth year [convex optimization](https://leclere.github.io/teaching/Optim2A) by [Vincent Leclère], École des Ponts.
 - 2022-2024: Teaching assistant of third year [decision making with uncertainties](https://cermics.enpc.fr/~jpc/decision-incertain/index.html) by [Jean Philippe Chancelier](https://cermics.enpc.fr/~jpc/), École des Ponts.
-- 2022-2023: Teaching assistant of third year optimisation class by [Frédéric Meunier](https://cermics.enpc.fr/~meuniefr/), École des Ponts.
+- 2022-2023: Teaching assistant of third year optimization class by [Frédéric Meunier](https://cermics.enpc.fr/~meuniefr/), École des Ponts.
 - 2022: Project management for third year students at École des Ponts.
 
 
