@@ -12,7 +12,7 @@ Project at [Imperial College of London](https://www.imperial.ac.uk/) under the s
 
 **Posters**
 1. [Poster](https://zfornier.github.io/poster_mode.pdf) presented at [SMAI-MODE Days](https://indico.math.cnrs.fr/event/6564/) in June 2022, a conference organized by the group of decision and optimization mathematics (MODE).
-2. [Poster](https://zfornier.github.io/poster.pdf) presented at [LACIAM](https://eventos.fgv.br/laciam-2023) in February 2023, the Latin American Congress on Indutrial and Applied Mathematics. 
+2. [Poster](https://zfornier.github.io/poster_laciam.pdf) presented at [LACIAM](https://eventos.fgv.br/laciam-2023) in February 2023, the Latin American Congress on Indutrial and Applied Mathematics. 
 
 **Talks**
 1. [Presentation](https://zfornier.github.io/roadef2022.pdf) of my master thesis at [ROADEF](https://roadef2022.sciencesconf.org/) in February 2022, an annual conference organized by the French society of operational research and decision making. 
